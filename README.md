@@ -1,0 +1,1 @@
+# protoc-generator-proto3
